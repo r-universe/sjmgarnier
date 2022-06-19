@@ -1,0 +1,10 @@
+[
+  {
+    "package": "viridis",
+    "oncran": true
+  },
+  {
+    "package": "viridisLite",
+    "oncran": true
+  }
+]
