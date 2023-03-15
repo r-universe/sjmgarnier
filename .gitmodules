@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "viridis"]
-	path = viridis
-	url = https://github.com/sjmgarnier/viridis
-	shallow = true
-	registered = true
 [submodule "viridisLite"]
 	path = viridisLite
 	url = https://github.com/sjmgarnier/viridislite
+	shallow = true
+	registered = true
+[submodule "viridis"]
+	path = viridis
+	url = https://github.com/sjmgarnier/viridis
 	shallow = true
 	registered = true
